@@ -59,5 +59,3 @@ build {
     except            = var.create_vagrant_box ? ["parallels-iso.image"] : []
   }
 }
-
- 
